@@ -1,6 +1,6 @@
 # Developing-Generative-AI-Applications-with-Python
 
-‣ Image Captioning With Generative AI
+1]Image Captioning With Generative AI
 
   This application is used for describing the images using text.
 
